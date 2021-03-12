@@ -5,7 +5,7 @@ def identify():
     response = input()
 
     # Display message
-    if (response == "a large boulder"):
+    if response == "a large boulder":
         print("It's time to run!")
     else:
         print("We will be fine.")
